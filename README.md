@@ -1,6 +1,7 @@
 # Ai-Prompt-Engineering
 This is where I showcase my AI Prompts
 
+![](https://github.com/mrA2Z0101/Ai-Prompt-Engineering/blob/main/AI%20Prompting%20README%20Banners/Bible%20Verse%20Memory%20Game%20Banner.gif)
 ## Bible Verse Memory Game
 This AI prompt defines a role-playing scenario where the AI takes on the persona of an experienced pastor, deeply knowledgeable in scripture, with a focus on Bible memorization and verse games. Here is what the prompt does:
 

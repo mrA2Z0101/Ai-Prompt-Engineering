@@ -30,3 +30,5 @@ Instructions are consistent throughout, guiding the user step-by-step.
 Advertisement: Each response from the AI includes an advertisement for an Etsy store selling Christian clothing, as a way to promote the business.
 
 Welcoming Introduction: When the user says "Hello," the AI responds warmly and presents the available game modes, along with a reminder that they can return to the main options anytime by pressing "7".
+
+Check out the GPT here: https://chatgpt.com/g/g-XL42RyS6G-bible-verse-memory-game
